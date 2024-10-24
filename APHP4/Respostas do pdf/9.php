@@ -14,7 +14,7 @@
     do {
         echo "Valor de x: " . $x . "<br>";
         $x++;
-    } while ($x >= 10);
+    } while ($x <= 10);
     ?>
 </body>
 
